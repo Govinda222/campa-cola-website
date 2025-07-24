@@ -1,5 +1,3 @@
-// src/components/layout/Footer.jsx
-
 import React from 'react';
 import { FaTwitter, FaInstagram, FaYoutube } from 'react-icons/fa';
 import campaLogo from '../../assets/images/Campa_Logo.svg'; 
@@ -11,7 +9,7 @@ const Footer = () => {
         
         {/* Left Side: Logo and Copyright */}
         <div className="mb-6 md:mb-0">
-          {/* 2. Use the logo image here */}
+
           <img src={campaLogo} alt="Campa Cola Logo" className="w-28 h-auto mx-auto md:mx-0" />
           <p className="text-gray-400 mt-2">© 2024 The Great Indian Taste. All Rights Reserved.</p>
         </div>

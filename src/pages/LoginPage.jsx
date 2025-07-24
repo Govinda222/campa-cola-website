@@ -1,4 +1,3 @@
-// src/pages/LoginPage.jsx
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import campaLogo from '../assets/images/Campa_Logo.svg'; // 1. Import the logo
@@ -38,7 +37,6 @@ const LoginPage = () => {
           transition={{ duration: 0.5, ease: "easeOut" }}
         >
           <div className="text-center">
-            {/* 2. Add the logo image here */}
             <img src={campaLogo} alt="Campa Cola Logo" className="w-32 mx-auto mb-4" />
             <h1 className="text-4xl font-extrabold text-white">
               {isLogin ? 'Welcome Back' : 'Create Account'}

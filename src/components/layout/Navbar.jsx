@@ -1,8 +1,5 @@
-// src/components/layout/Navbar.jsx
-
 import React, { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
-// 1. Correct the import path to go up two directories
 import campaLogo from '../../assets/images/Campa_Logo.svg'; 
 
 const Navbar = () => {

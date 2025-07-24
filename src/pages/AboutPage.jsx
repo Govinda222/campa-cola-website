@@ -1,8 +1,6 @@
-// src/pages/AboutPage.jsx
 import React from 'react';
 import { motion } from 'framer-motion';
 
-// Data for our timeline
 const timelineEvents = [
   {
     year: '1977',

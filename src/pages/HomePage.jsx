@@ -1,5 +1,3 @@
-// src/pages/HomePage.jsx
-
 import React from 'react';
 import { motion } from 'framer-motion';
 
@@ -8,7 +6,7 @@ import campaColaImg from '../assets/images/campa-cola.jpg';
 import campaOrangeImg from '../assets/images/campa-orange.jpg';
 import campaLemonImg from '../assets/images/campa-lemon.jpg';
 import heroVideo from '../assets/videos/hero-video.mp4';
-import campaLogo from '../assets/images/Campa_Logo.svg'; // 1. Import the logo
+import campaLogo from '../assets/images/Campa_Logo.svg'; 
 
 // Animation settings
 const pageVariants = {
@@ -43,7 +41,6 @@ const HomePage = () => {
         />
         <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 z-10" />
         <div className="relative z-20 p-4">
-          {/* 2. Add the logo image here */}
           <motion.img
             src={campaLogo}
             alt="Campa Cola Logo"

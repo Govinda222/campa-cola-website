@@ -1,6 +1,3 @@
-// src/api/products.js
-
-// Import local images
 import campaColaImg from '../assets/images/campa-cola.jpg';
 import campaOrangeImg from '../assets/images/campa-orange.jpg';
 import campaLemonImg from '../assets/images/campa-lemon.jpg';
