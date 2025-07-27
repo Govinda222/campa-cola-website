@@ -7,24 +7,23 @@ A modern, animated, and fully responsive concept website built for the "Influenc
 
 ---
 
-![Campa Cola Homepage](https://i.imgur.com/your-screenshot-url.png)
-*(**Action needed:** Take a screenshot of your finished homepage and upload it to a site like [Imgur](https://imgur.com/upload) to get a link to paste here.)*
+![Campa Cola Homepage](https://i.ibb.co/GvZnCJW/image.png)
 
 ## 🚀 Features
 
 This project was built to meet and exceed the hackathon criteria, focusing on a high-quality user experience and modern web design trends.
 
 * **5 Fully-Featured Pages:**
-    * **Home:** A stunning hero section with a video background and scroll-based animations.
+    * **Home:** A stunning hero section with a video background and animated text.
     * **About:** A creative, animated timeline detailing the history of the Campa brand.
     * **Products:** A responsive grid of all product variations with hover effects.
     * **Product Detail:** A dynamic page that showcases individual product information.
-    * **Login/Signup:** A visually appealing, modern authentication UI with a toggleable form.
+    * **Login/Signup:** A visually appealing, modern authentication UI with the official brand logo.
 * **Rich Animations & Interactions:**
     * Smooth, fading page transitions between all routes.
     * Scroll-triggered animations on all sections using Framer Motion's `whileInView`.
-    * A dynamic navbar that changes appearance on scroll.
-* **Fully Responsive Design:** The layout is optimized for a seamless experience on all devices, from mobile phones to desktops.
+    * A dynamic navbar that changes appearance on scroll and includes the official logo.
+* **Fully Responsive Design:** The layout is optimized for a seamless experience on all devices, from mobile phones to desktops, including a fully functional mobile menu.
 * **Modern UI/UX:** The design is clean, bold, and creative, reflecting "2025 internet trends" as per the hackathon theme.
 
 ## 🛠️ Tech Stack
@@ -51,7 +50,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/campa-cola-website.git](https://github.com/your-username/campa-cola-website.git)
+    git clone [https://github.com/Govinda222/campa-cola-website.git](https://github.com/Govinda222/campa-cola-website.git)
     ```
 2.  **Navigate into the project directory:**
     ```sh
